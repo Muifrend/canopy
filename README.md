@@ -4,7 +4,11 @@ Canopy is a desktop prototype that helps students compare what they planned to w
 
 Built as a four-person Minerva University civic technology project during Fall 2025 and Spring 2026. **Status: macOS beta prototype.**
 
-[Watch the walkthrough](https://drive.google.com/file/d/1xdL_7SoyT9ubVifsJFeiLqnK9TvB9gNy/view?usp=sharing) · [Download the macOS beta](https://github.com/Muifrend/canopy/releases/tag/v1.0.0) · [Read the project process](docs/PROCESS.md)
+[Watch the walkthrough](https://youtu.be/KR-QFxVVcPA) · [Download the macOS beta](https://github.com/Muifrend/canopy/releases/tag/v1.0.0) · [Read the project process](docs/PROCESS.md)
+
+[![Watch the Canopy walkthrough on YouTube](https://img.youtube.com/vi/KR-QFxVVcPA/hqdefault.jpg)](https://youtu.be/KR-QFxVVcPA)
+
+*Click the thumbnail to watch the walkthrough on YouTube.*
 
 ![Canopy task-planning screen with a project, notes, and coaching hint](assets/canopy-task-planning.jpg)
 
@@ -196,4 +200,5 @@ curl -sS http://localhost:5600/api/0/buckets
 
 - `OPENAI_API_KEY missing or blank`
   Classification is disabled, but the planner still works.
+
 
