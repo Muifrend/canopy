@@ -24,7 +24,7 @@ Canopy grew out of Minerva University's Digital Balance Cornerstone Civic Projec
 
 **Team:** Andrzej Firek, Hina Shahnaz Javed, Kreeshna Mehta, and Michael Masłowski.
 
-Andrzej Firek led much of the prototype implementation. The broader team contributed research synthesis, stakeholder communication, peer feedback, presentation design, and final deliverable writing. The [process writeup](docs/PROCESS.md) describes how these efforts shaped the product.
+I led much of the prototype implementation. The broader team contributed research synthesis, stakeholder communication, peer feedback, presentation design, and final deliverable writing. The [process writeup](docs/PROCESS.md) describes how these efforts shaped the product.
 
 ## What It Does
 
