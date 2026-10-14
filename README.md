@@ -6,6 +6,10 @@ Built as a four-person Minerva University civic technology project during Fall 2
 
 [Watch the walkthrough](https://drive.google.com/file/d/1xdL_7SoyT9ubVifsJFeiLqnK9TvB9gNy/view?usp=sharing) · [Download the macOS beta](https://github.com/Muifrend/canopy/releases/tag/v1.0.0) · [Read the project process](docs/PROCESS.md)
 
+![Canopy task-planning screen with a project, notes, and coaching hint](assets/canopy-task-planning.jpg)
+
+*Current macOS beta with an example task staged for the walkthrough. See the [visual evidence gallery](assets/README.md) for project context and an earlier prototype.*
+
 ## Why We Built It
 
 Students rely on their computers for coursework, research, and collaboration, but their activity can gradually drift away from the task they intended to complete. Total screen time alone does not explain whether that time served their goals.
@@ -192,3 +196,4 @@ curl -sS http://localhost:5600/api/0/buckets
 
 - `OPENAI_API_KEY missing or blank`
   Classification is disabled, but the planner still works.
+
