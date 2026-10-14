@@ -6,13 +6,9 @@ Built as a four-person Minerva University civic technology project during Fall 2
 
 [Watch the walkthrough](https://youtu.be/KR-QFxVVcPA) · [Download the macOS beta](https://github.com/Muifrend/canopy/releases/tag/v1.0.0) · [Read the project process](docs/PROCESS.md)
 
-[![Watch the Canopy walkthrough on YouTube](https://img.youtube.com/vi/KR-QFxVVcPA/hqdefault.jpg)](https://youtu.be/KR-QFxVVcPA)
+[![Canopy task-planning screen with a project, notes, and coaching hint](assets/canopy-task-planning.jpg)](https://youtu.be/KR-QFxVVcPA)
 
-*Click the thumbnail to watch the walkthrough on YouTube.*
-
-![Canopy task-planning screen with a project, notes, and coaching hint](assets/canopy-task-planning.jpg)
-
-*Current macOS beta with an example task staged for the walkthrough. See the [visual evidence gallery](assets/README.md) for project context and an earlier prototype.*
+*Click the image to watch the walkthrough on YouTube. Current macOS beta with an example task staged for the walkthrough. See the [visual evidence gallery](assets/README.md) for project context and an earlier prototype.*
 
 ## Why We Built It
 
@@ -200,5 +196,3 @@ curl -sS http://localhost:5600/api/0/buckets
 
 - `OPENAI_API_KEY missing or blank`
   Classification is disabled, but the planner still works.
-
-
